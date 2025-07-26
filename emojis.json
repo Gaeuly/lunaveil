@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Playing",
+    "id": "1188088755819663400",
+    "url": "https://cdn.discordapp.com/emojis/1188088755819663400.gif",
+    "format": "<a:Playing:1188088755819663400>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\slashCommands\\Music\\nowplaying.js",
+    "isAnimated": true
+  },
+  {
+    "name": "loading",
+    "id": "1193991974718537840",
+    "url": "https://cdn.discordapp.com/emojis/1193991974718537840.gif",
+    "format": "<a:loading:1193991974718537840>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": true
+  },
+  {
+    "name": "music",
+    "id": "1127607386799083592",
+    "url": "https://cdn.discordapp.com/emojis/1127607386799083592.png",
+    "format": "<:music:1127607386799083592>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "volumehigh",
+    "id": "1188203004646666320",
+    "url": "https://cdn.discordapp.com/emojis/1188203004646666320.png",
+    "format": "<:volumehigh:1188203004646666320>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\serverinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "play",
+    "id": "1188349488184701018",
+    "url": "https://cdn.discordapp.com/emojis/1188349488184701018.png",
+    "format": "<:play:1188349488184701018>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "resume",
+    "id": "1188183870298918932",
+    "url": "https://cdn.discordapp.com/emojis/1188183870298918932.png",
+    "format": "<:resume:1188183870298918932>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "forward",
+    "id": "1188182458903036034",
+    "url": "https://cdn.discordapp.com/emojis/1188182458903036034.png",
+    "format": "<:forward:1188182458903036034>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "join",
+    "id": "1188193835889729546",
+    "url": "https://cdn.discordapp.com/emojis/1188193835889729546.png",
+    "format": "<:join:1188193835889729546>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "leave",
+    "id": "1188193876817752164",
+    "url": "https://cdn.discordapp.com/emojis/1188193876817752164.png",
+    "format": "<:leave:1188193876817752164>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "autoplay",
+    "id": "1188188713428209777",
+    "url": "https://cdn.discordapp.com/emojis/1188188713428209777.png",
+    "format": "<:autoplay:1188188713428209777>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "mute",
+    "id": "1188202691302785174",
+    "url": "https://cdn.discordapp.com/emojis/1188202691302785174.png",
+    "format": "<:mute:1188202691302785174>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "volumemiddle",
+    "id": "1188203002285268992",
+    "url": "https://cdn.discordapp.com/emojis/1188203002285268992.png",
+    "format": "<:volumemiddle:1188203002285268992>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "volumelow",
+    "id": "1188202998611071056",
+    "url": "https://cdn.discordapp.com/emojis/1188202998611071056.png",
+    "format": "<:volumelow:1188202998611071056>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "shuffle",
+    "id": "1188182084473335859",
+    "url": "https://cdn.discordapp.com/emojis/1188182084473335859.png",
+    "format": "<:shuffle:1188182084473335859>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "rewind",
+    "id": "1188182454507425952",
+    "url": "https://cdn.discordapp.com/emojis/1188182454507425952.png",
+    "format": "<:rewind:1188182454507425952>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "queue",
+    "id": "1188184969793781850",
+    "url": "https://cdn.discordapp.com/emojis/1188184969793781850.png",
+    "format": "<:queue:1188184969793781850>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "playlist",
+    "id": "1188185181237039114",
+    "url": "https://cdn.discordapp.com/emojis/1188185181237039114.png",
+    "format": "<:playlist:1188185181237039114>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "pause",
+    "id": "1188185761955188737",
+    "url": "https://cdn.discordapp.com/emojis/1188185761955188737.png",
+    "format": "<:pause:1188185761955188737>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "loop",
+    "id": "1188182962412462190",
+    "url": "https://cdn.discordapp.com/emojis/1188182962412462190.png",
+    "format": "<:loop:1188182962412462190>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "filter",
+    "id": "1188187546321158184",
+    "url": "https://cdn.discordapp.com/emojis/1188187546321158184.png",
+    "format": "<:filter:1188187546321158184>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "extra",
+    "id": "1344338431668387870",
+    "url": "https://cdn.discordapp.com/emojis/1344338431668387870.png",
+    "format": "<:extra:1344338431668387870>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "role",
+    "id": "1318616523975163904",
+    "url": "https://cdn.discordapp.com/emojis/1318616523975163904.png",
+    "format": "<:role:1318616523975163904>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "del",
+    "id": "1188108090499923999",
+    "url": "https://cdn.discordapp.com/emojis/1188108090499923999.png",
+    "format": "<:del:1188108090499923999>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Playlist\\plinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "left",
+    "id": "1127618224595406929",
+    "url": "https://cdn.discordapp.com/emojis/1127618224595406929.png",
+    "format": "<:left:1127618224595406929>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Playlist\\plinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "right",
+    "id": "1127618208510255165",
+    "url": "https://cdn.discordapp.com/emojis/1127618208510255165.png",
+    "format": "<:right:1127618208510255165>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Playlist\\plinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "yes",
+    "id": "1127619660519575612",
+    "url": "https://cdn.discordapp.com/emojis/1127619660519575612.png",
+    "format": "<:yes:1127619660519575612>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "no",
+    "id": "1127619635316015184",
+    "url": "https://cdn.discordapp.com/emojis/1127619635316015184.png",
+    "format": "<:no:1127619635316015184>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "dot",
+    "id": "1201841280577970176",
+    "url": "https://cdn.discordapp.com/emojis/1201841280577970176.png",
+    "format": "<:dot:1201841280577970176>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\utils\\progressbar.js",
+    "isAnimated": false
+  },
+  {
+    "name": "warn",
+    "id": "1127619432865337344",
+    "url": "https://cdn.discordapp.com/emojis/1127619432865337344.png",
+    "format": "<:warn:1127619432865337344>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "search",
+    "id": "1188194606823788644",
+    "url": "https://cdn.discordapp.com/emojis/1188194606823788644.png",
+    "format": "<:search:1188194606823788644>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "welc",
+    "id": "1188198497120423957",
+    "url": "https://cdn.discordapp.com/emojis/1188198497120423957.png",
+    "format": "<:welc:1188198497120423957>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "config",
+    "id": "1127607954561056768",
+    "url": "https://cdn.discordapp.com/emojis/1127607954561056768.png",
+    "format": "<:config:1127607954561056768>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\team.js",
+    "isAnimated": false
+  },
+  {
+    "name": "info",
+    "id": "1188195669660422226",
+    "url": "https://cdn.discordapp.com/emojis/1188195669660422226.png",
+    "format": "<:info:1188195669660422226>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "home",
+    "id": "1127607405061079061",
+    "url": "https://cdn.discordapp.com/emojis/1127607405061079061.png",
+    "format": "<:home:1127607405061079061>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "ignore",
+    "id": "1224281352988397630",
+    "url": "https://cdn.discordapp.com/emojis/1224281352988397630.png",
+    "format": "<:ignore:1224281352988397630>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "profile",
+    "id": "1224281268934414427",
+    "url": "https://cdn.discordapp.com/emojis/1224281268934414427.png",
+    "format": "<:profile:1224281268934414427>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "premium",
+    "id": "1225681906851512380",
+    "url": "https://cdn.discordapp.com/emojis/1225681906851512380.png",
+    "format": "<:premium:1225681906851512380>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "dnd",
+    "id": "1230951770973278229",
+    "url": "https://cdn.discordapp.com/emojis/1230951770973278229.png",
+    "format": "<:dnd:1230951770973278229>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "offline",
+    "id": "1230951861603795019",
+    "url": "https://cdn.discordapp.com/emojis/1230951861603795019.png",
+    "format": "<:offline:1230951861603795019>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "online",
+    "id": "1230951647962726612",
+    "url": "https://cdn.discordapp.com/emojis/1230951647962726612.png",
+    "format": "<:online:1230951647962726612>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "idle",
+    "id": "1230952869679599687",
+    "url": "https://cdn.discordapp.com/emojis/1230952869679599687.png",
+    "format": "<:idle:1230952869679599687>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "voice",
+    "id": "1231172368404054117",
+    "url": "https://cdn.discordapp.com/emojis/1231172368404054117.png",
+    "format": "<:voice:1231172368404054117>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "fun",
+    "id": "1231172370929156106",
+    "url": "https://cdn.discordapp.com/emojis/1231172370929156106.png",
+    "format": "<:fun:1231172370929156106>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "mod",
+    "id": "1231172366244253716",
+    "url": "https://cdn.discordapp.com/emojis/1231172366244253716.png",
+    "format": "<:mod:1231172366244253716>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "pfp",
+    "id": "1231174798642643008",
+    "url": "https://cdn.discordapp.com/emojis/1231174798642643008.png",
+    "format": "<:pfp:1231174798642643008>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "autoresponder",
+    "id": "1312668357199401003",
+    "url": "https://cdn.discordapp.com/emojis/1312668357199401003.png",
+    "format": "<:autoresponder:1312668357199401003>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Insta",
+    "id": "1196715538773180478",
+    "url": "https://cdn.discordapp.com/emojis/1196715538773180478.png",
+    "format": "<:Insta:1196715538773180478>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\team.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Snap",
+    "id": "1196715534587281438",
+    "url": "https://cdn.discordapp.com/emojis/1196715534587281438.png",
+    "format": "<:Snap:1196715534587281438>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\team.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discord",
+    "id": "1318846313579941888",
+    "url": "https://cdn.discordapp.com/emojis/1318846313579941888.png",
+    "format": "<:discord:1318846313579941888>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "utility",
+    "id": "1232983033871728651",
+    "url": "https://cdn.discordapp.com/emojis/1232983033871728651.png",
+    "format": "<:utility:1232983033871728651>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "antinuke",
+    "id": "1329417244652077077",
+    "url": "https://cdn.discordapp.com/emojis/1329417244652077077.png",
+    "format": "<:antinuke:1329417244652077077>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Ozuma",
+    "id": "1169971284332003440",
+    "url": "https://cdn.discordapp.com/emojis/1169971284332003440.png",
+    "format": "<:Ozuma:1169971284332003440>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Owners",
+    "id": "1199282508269879346",
+    "url": "https://cdn.discordapp.com/emojis/1199282508269879346.png",
+    "format": "<:Owners:1199282508269879346>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\team.js",
+    "isAnimated": false
+  },
+  {
+    "name": "OxP",
+    "id": "1199284739899670548",
+    "url": "https://cdn.discordapp.com/emojis/1199284739899670548.png",
+    "format": "<:OxP:1199284739899670548>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Arrkiii",
+    "id": "1199284047113883670",
+    "url": "https://cdn.discordapp.com/emojis/1199284047113883670.png",
+    "format": "<:Arrkiii:1199284047113883670>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Staffs",
+    "id": "1199284056853069885",
+    "url": "https://cdn.discordapp.com/emojis/1199284056853069885.png",
+    "format": "<:Staffs:1199284056853069885>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Partners",
+    "id": "1199282537357381762",
+    "url": "https://cdn.discordapp.com/emojis/1199282537357381762.png",
+    "format": "<:Partners:1199282537357381762>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "supporter",
+    "id": "1222100920175951882",
+    "url": "https://cdn.discordapp.com/emojis/1222100920175951882.png",
+    "format": "<:supporter:1222100920175951882>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "sponsor",
+    "id": "1222100909769883698",
+    "url": "https://cdn.discordapp.com/emojis/1222100909769883698.png",
+    "format": "<:sponsor:1222100909769883698>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "ownerspecial",
+    "id": "1222100912043069492",
+    "url": "https://cdn.discordapp.com/emojis/1222100912043069492.png",
+    "format": "<:ownerspecial:1222100912043069492>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Vips",
+    "id": "1199282523331625020",
+    "url": "https://cdn.discordapp.com/emojis/1199282523331625020.png",
+    "format": "<:Vips:1199282523331625020>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Homies",
+    "id": "1199282532852699198",
+    "url": "https://cdn.discordapp.com/emojis/1199282532852699198.png",
+    "format": "<:Homies:1199282532852699198>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Mods",
+    "id": "1199282520114593884",
+    "url": "https://cdn.discordapp.com/emojis/1199282520114593884.png",
+    "format": "<:Mods:1199282520114593884>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "special",
+    "id": "1199284052046389329",
+    "url": "https://cdn.discordapp.com/emojis/1199284052046389329.png",
+    "format": "<:special:1199284052046389329>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "love",
+    "id": "1222100917206388766",
+    "url": "https://cdn.discordapp.com/emojis/1222100917206388766.png",
+    "format": "<:love:1222100917206388766>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "arrkiii",
+    "id": "1187678838759628800",
+    "url": "https://cdn.discordapp.com/emojis/1187678838759628800.png",
+    "format": "<:arrkiii:1187678838759628800>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Owner\\nopaccess.js",
+    "isAnimated": false
+  },
+  {
+    "name": "A_simper",
+    "id": "1211571868956622878",
+    "url": "https://cdn.discordapp.com/emojis/1211571868956622878.png",
+    "format": "<:A_simper:1211571868956622878>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "B_simper",
+    "id": "1211571967015129118",
+    "url": "https://cdn.discordapp.com/emojis/1211571967015129118.png",
+    "format": "<:B_simper:1211571967015129118>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "C_simper",
+    "id": "1211571972014874644",
+    "url": "https://cdn.discordapp.com/emojis/1211571972014874644.png",
+    "format": "<:C_simper:1211571972014874644>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "D_simper",
+    "id": "1211571975726698497",
+    "url": "https://cdn.discordapp.com/emojis/1211571975726698497.png",
+    "format": "<:D_simper:1211571975726698497>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "E_simper",
+    "id": "1211571981959561227",
+    "url": "https://cdn.discordapp.com/emojis/1211571981959561227.png",
+    "format": "<:E_simper:1211571981959561227>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "F_simper",
+    "id": "1211571986820767784",
+    "url": "https://cdn.discordapp.com/emojis/1211571986820767784.png",
+    "format": "<:F_simper:1211571986820767784>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "G_simper",
+    "id": "1211571992847978537",
+    "url": "https://cdn.discordapp.com/emojis/1211571992847978537.png",
+    "format": "<:G_simper:1211571992847978537>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "H_simper",
+    "id": "1211571998443053106",
+    "url": "https://cdn.discordapp.com/emojis/1211571998443053106.png",
+    "format": "<:H_simper:1211571998443053106>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "I_simper",
+    "id": "1211572004642361414",
+    "url": "https://cdn.discordapp.com/emojis/1211572004642361414.png",
+    "format": "<:I_simper:1211572004642361414>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "J_simper",
+    "id": "1211572010308730951",
+    "url": "https://cdn.discordapp.com/emojis/1211572010308730951.png",
+    "format": "<:J_simper:1211572010308730951>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "K_simper",
+    "id": "1211572015912194089",
+    "url": "https://cdn.discordapp.com/emojis/1211572015912194089.png",
+    "format": "<:K_simper:1211572015912194089>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "L_simper",
+    "id": "1211572021385887775",
+    "url": "https://cdn.discordapp.com/emojis/1211572021385887775.png",
+    "format": "<:L_simper:1211572021385887775>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "M_simper",
+    "id": "1211572027190677524",
+    "url": "https://cdn.discordapp.com/emojis/1211572027190677524.png",
+    "format": "<:M_simper:1211572027190677524>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "N_simper",
+    "id": "1211572030533664828",
+    "url": "https://cdn.discordapp.com/emojis/1211572030533664828.png",
+    "format": "<:N_simper:1211572030533664828>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "O_simper",
+    "id": "1211572035751510066",
+    "url": "https://cdn.discordapp.com/emojis/1211572035751510066.png",
+    "format": "<:O_simper:1211572035751510066>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "P_simper",
+    "id": "1211572041820405802",
+    "url": "https://cdn.discordapp.com/emojis/1211572041820405802.png",
+    "format": "<:P_simper:1211572041820405802>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Q_simper",
+    "id": "1211572047155568650",
+    "url": "https://cdn.discordapp.com/emojis/1211572047155568650.png",
+    "format": "<:Q_simper:1211572047155568650>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "R_simper",
+    "id": "1211572054520889364",
+    "url": "https://cdn.discordapp.com/emojis/1211572054520889364.png",
+    "format": "<:R_simper:1211572054520889364>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "S_simper",
+    "id": "1211572059793006613",
+    "url": "https://cdn.discordapp.com/emojis/1211572059793006613.png",
+    "format": "<:S_simper:1211572059793006613>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "T_simper",
+    "id": "1211572065614700585",
+    "url": "https://cdn.discordapp.com/emojis/1211572065614700585.png",
+    "format": "<:T_simper:1211572065614700585>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "U_simper",
+    "id": "1211572071130468353",
+    "url": "https://cdn.discordapp.com/emojis/1211572071130468353.png",
+    "format": "<:U_simper:1211572071130468353>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "V_simper",
+    "id": "1211572076486459473",
+    "url": "https://cdn.discordapp.com/emojis/1211572076486459473.png",
+    "format": "<:V_simper:1211572076486459473>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "W_simper",
+    "id": "1211572081737605182",
+    "url": "https://cdn.discordapp.com/emojis/1211572081737605182.png",
+    "format": "<:W_simper:1211572081737605182>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "X_simper",
+    "id": "1211572085651148801",
+    "url": "https://cdn.discordapp.com/emojis/1211572085651148801.png",
+    "format": "<:X_simper:1211572085651148801>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Y_simper",
+    "id": "1211572090310889504",
+    "url": "https://cdn.discordapp.com/emojis/1211572090310889504.png",
+    "format": "<:Y_simper:1211572090310889504>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Z_simper",
+    "id": "1211572095696502794",
+    "url": "https://cdn.discordapp.com/emojis/1211572095696502794.png",
+    "format": "<:Z_simper:1211572095696502794>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\index.js",
+    "isAnimated": false
+  },
+  {
+    "name": "support",
+    "id": "1220409940943048784",
+    "url": "https://cdn.discordapp.com/emojis/1220409940943048784.png",
+    "format": "<:support:1220409940943048784>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "orchuu_cutie",
+    "id": "1217905176107815063",
+    "url": "https://cdn.discordapp.com/emojis/1217905176107815063.png",
+    "format": "<:orchuu_cutie:1217905176107815063>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Fun\\howgay.js",
+    "isAnimated": false
+  },
+  {
+    "name": "simpers_Eyes_AE",
+    "id": "1194607509445550161",
+    "url": "https://cdn.discordapp.com/emojis/1194607509445550161.png",
+    "format": "<:simpers_Eyes_AE:1194607509445550161>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Fun\\simprate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "there",
+    "id": "1125101077486915715",
+    "url": "https://cdn.discordapp.com/emojis/1125101077486915715.png",
+    "format": "<:there:1125101077486915715>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\slashCommands\\Information\\about.js",
+    "isAnimated": false
+  },
+  {
+    "name": "MekoAutomod",
+    "id": "1215628744006570015",
+    "url": "https://cdn.discordapp.com/emojis/1215628744006570015.png",
+    "format": "<:MekoAutomod:1215628744006570015>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "antinuke",
+    "id": "1388391684575985694",
+    "url": "https://cdn.discordapp.com/emojis/1388391684575985694.png",
+    "format": "<:antinuke:1388391684575985694>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "MekoAutomod",
+    "id": "1388392098796929108",
+    "url": "https://cdn.discordapp.com/emojis/1388392098796929108.png",
+    "format": "<:MekoAutomod:1388392098796929108>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "extra",
+    "id": "1388392345598165003",
+    "url": "https://cdn.discordapp.com/emojis/1388392345598165003.png",
+    "format": "<:extra:1388392345598165003>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "role",
+    "id": "1388392567338434630",
+    "url": "https://cdn.discordapp.com/emojis/1388392567338434630.png",
+    "format": "<:role:1388392567338434630>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "enable",
+    "id": "1209209294185300010",
+    "url": "https://cdn.discordapp.com/emojis/1209209294185300010.gif",
+    "format": "<a:enable:1209209294185300010>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\profile.js",
+    "isAnimated": true
+  },
+  {
+    "name": "Fams",
+    "id": "1199282541413277726",
+    "url": "https://cdn.discordapp.com/emojis/1199282541413277726.png",
+    "format": "<:Fams:1199282541413277726>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\profile.js",
+    "isAnimated": false
+  },
+  {
+    "name": "disable",
+    "id": "1209209238065385532",
+    "url": "https://cdn.discordapp.com/emojis/1209209238065385532.png",
+    "format": "<:disable:1209209238065385532>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\profile.js",
+    "isAnimated": false
+  },
+  {
+    "name": "dr_heats",
+    "id": "1169626554456875170",
+    "url": "https://cdn.discordapp.com/emojis/1169626554456875170.gif",
+    "format": "<a:dr_heats:1169626554456875170>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\team.js",
+    "isAnimated": true
+  },
+  {
+    "name": "simpers_cheers",
+    "id": "1194607806893015081",
+    "url": "https://cdn.discordapp.com/emojis/1194607806893015081.gif",
+    "format": "<a:simpers_cheers:1194607806893015081>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\team.js",
+    "isAnimated": true
+  },
+  {
+    "name": "links",
+    "id": "1188351754128080957",
+    "url": "https://cdn.discordapp.com/emojis/1188351754128080957.png",
+    "format": "<:links:1188351754128080957>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Information\\team.js",
+    "isAnimated": false
+  },
+  {
+    "name": "heart",
+    "id": "1215695204439293962",
+    "url": "https://cdn.discordapp.com/emojis/1215695204439293962.png",
+    "format": "<:heart:1215695204439293962>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "staff",
+    "id": "1230959557942186061",
+    "url": "https://cdn.discordapp.com/emojis/1230959557942186061.png",
+    "format": "<:staff:1230959557942186061>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "partner",
+    "id": "1230959788087840769",
+    "url": "https://cdn.discordapp.com/emojis/1230959788087840769.png",
+    "format": "<:partner:1230959788087840769>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "BugHunter",
+    "id": "1230959967008325673",
+    "url": "https://cdn.discordapp.com/emojis/1230959967008325673.png",
+    "format": "<:BugHunter:1230959967008325673>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "hype_squad",
+    "id": "1230960190858199040",
+    "url": "https://cdn.discordapp.com/emojis/1230960190858199040.png",
+    "format": "<:hype_squad:1230960190858199040>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "BugHunterLevel2",
+    "id": "1230960348723679333",
+    "url": "https://cdn.discordapp.com/emojis/1230960348723679333.png",
+    "format": "<:BugHunterLevel2:1230960348723679333>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "HypeSquad_Balance",
+    "id": "1230957877708197959",
+    "url": "https://cdn.discordapp.com/emojis/1230957877708197959.png",
+    "format": "<:HypeSquad_Balance:1230957877708197959>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "HypeSquad2",
+    "id": "1230957852043247678",
+    "url": "https://cdn.discordapp.com/emojis/1230957852043247678.png",
+    "format": "<:HypeSquad2:1230957852043247678>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "HypeSquad_Bravery",
+    "id": "1230957863015546902",
+    "url": "https://cdn.discordapp.com/emojis/1230957863015546902.png",
+    "format": "<:HypeSquad_Bravery:1230957863015546902>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "PremiumEarlySupporter",
+    "id": "1230960751997620276",
+    "url": "https://cdn.discordapp.com/emojis/1230960751997620276.png",
+    "format": "<:PremiumEarlySupporter:1230960751997620276>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "verified_bot",
+    "id": "1230961050208178186",
+    "url": "https://cdn.discordapp.com/emojis/1230961050208178186.png",
+    "format": "<:verified_bot:1230961050208178186>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "VerifiedDeveloper",
+    "id": "1230961198133153992",
+    "url": "https://cdn.discordapp.com/emojis/1230961198133153992.png",
+    "format": "<:VerifiedDeveloper:1230961198133153992>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "CertifiedModerator",
+    "id": "1231133794757771304",
+    "url": "https://cdn.discordapp.com/emojis/1231133794757771304.png",
+    "format": "<:CertifiedModerator:1231133794757771304>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "ActiveDeveloper",
+    "id": "1231133698758545499",
+    "url": "https://cdn.discordapp.com/emojis/1231133698758545499.png",
+    "format": "<:ActiveDeveloper:1231133698758545499>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Utility\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "inv",
+    "id": "1220409952921981021",
+    "url": "https://cdn.discordapp.com/emojis/1220409952921981021.png",
+    "format": "<:inv:1220409952921981021>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "privacy",
+    "id": "1220409917278523473",
+    "url": "https://cdn.discordapp.com/emojis/1220409917278523473.png",
+    "format": "<:privacy:1220409917278523473>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "CyanTick",
+    "id": "1027951432151879720",
+    "url": "https://cdn.discordapp.com/emojis/1027951432151879720.png",
+    "format": "<:CyanTick:1027951432151879720>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\commands\\Voice\\vcunmute.js",
+    "isAnimated": false
+  },
+  {
+    "name": "MekoBlueRightArrow",
+    "id": "1215628880304545822",
+    "url": "https://cdn.discordapp.com/emojis/1215628880304545822.png",
+    "format": "<:MekoBlueRightArrow:1215628880304545822>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "arroww",
+    "id": "1215695191793471559",
+    "url": "https://cdn.discordapp.com/emojis/1215695191793471559.png",
+    "format": "<:arroww:1215695191793471559>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "topgg",
+    "id": "1220409964116316170",
+    "url": "https://cdn.discordapp.com/emojis/1220409964116316170.png",
+    "format": "<:topgg:1220409964116316170>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "RedDot",
+    "id": "1127603979824672789",
+    "url": "https://cdn.discordapp.com/emojis/1127603979824672789.png",
+    "format": "<:RedDot:1127603979824672789>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\slashCommands\\Music\\nowplaying.js",
+    "isAnimated": false
+  },
+  {
+    "name": "ne",
+    "id": "1225330110392045648",
+    "url": "https://cdn.discordapp.com/emojis/1225330110392045648.png",
+    "format": "<:ne:1225330110392045648>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\slashCommands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "w_",
+    "id": "1225330091446505553",
+    "url": "https://cdn.discordapp.com/emojis/1225330091446505553.png",
+    "format": "<:w_:1225330091446505553>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\slashCommands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "fh_blue_butterfly",
+    "id": "1319220118743552061",
+    "url": "https://cdn.discordapp.com/emojis/1319220118743552061.gif",
+    "format": "<a:fh_blue_butterfly:1319220118743552061>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Arrkiii\\src\\utils\\util.js",
+    "isAnimated": true
+  },
+  {
+    "name": "discotoolsxyzicon87",
+    "id": "1347122685267939348",
+    "url": "https://cdn.discordapp.com/emojis/1347122685267939348.png",
+    "format": "<:discotoolsxyzicon87:1347122685267939348>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\MessageProcessor.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discotoolsxyzicon69",
+    "id": "1347122753613987890",
+    "url": "https://cdn.discordapp.com/emojis/1347122753613987890.png",
+    "format": "<:discotoolsxyzicon69:1347122753613987890>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\events\\discord\\interactionCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discotoolsxyzicon70",
+    "id": "1347122749876863048",
+    "url": "https://cdn.discordapp.com/emojis/1347122749876863048.png",
+    "format": "<:discotoolsxyzicon70:1347122749876863048>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\events\\discord\\interactionCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discotoolsxyzicon79",
+    "id": "1347122714741313548",
+    "url": "https://cdn.discordapp.com/emojis/1347122714741313548.png",
+    "format": "<:discotoolsxyzicon79:1347122714741313548>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\information\\stats.js",
+    "isAnimated": false
+  },
+  {
+    "name": "replycont",
+    "id": "1380483694749290558",
+    "url": "https://cdn.discordapp.com/emojis/1380483694749290558.png",
+    "format": "<:replycont:1380483694749290558>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\information\\stats.js",
+    "isAnimated": false
+  },
+  {
+    "name": "reply",
+    "id": "1380483695441608837",
+    "url": "https://cdn.discordapp.com/emojis/1380483695441608837.png",
+    "format": "<:reply:1380483695441608837>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\information\\stats.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discotoolsxyzicon60",
+    "id": "1347122797671092254",
+    "url": "https://cdn.discordapp.com/emojis/1347122797671092254.png",
+    "format": "<:discotoolsxyzicon60:1347122797671092254>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\information\\stats.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discotoolsxyzicon67",
+    "id": "1347122761604005918",
+    "url": "https://cdn.discordapp.com/emojis/1347122761604005918.png",
+    "format": "<:discotoolsxyzicon67:1347122761604005918>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\information\\stats.js",
+    "isAnimated": false
+  },
+  {
+    "name": "byte_tick",
+    "id": "1371361305520242698",
+    "url": "https://cdn.discordapp.com/emojis/1371361305520242698.png",
+    "format": "<:byte_tick:1371361305520242698>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\music\\join.js",
+    "isAnimated": false
+  },
+  {
+    "name": "arrow_red_left",
+    "id": "1380491961437257778",
+    "url": "https://cdn.discordapp.com/emojis/1380491961437257778.png",
+    "format": "<:arrow_red_left:1380491961437257778>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\events\\discord\\interactionCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "arrow",
+    "id": "1380482153808400404",
+    "url": "https://cdn.discordapp.com/emojis/1380482153808400404.png",
+    "format": "<:arrow:1380482153808400404>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\events\\discord\\interactionCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "paused",
+    "id": "1371409469711581328",
+    "url": "https://cdn.discordapp.com/emojis/1371409469711581328.png",
+    "format": "<:paused:1371409469711581328>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\music\\pause.js",
+    "isAnimated": false
+  },
+  {
+    "name": "loading_red",
+    "id": "1378726957138575403",
+    "url": "https://cdn.discordapp.com/emojis/1378726957138575403.gif",
+    "format": "<a:loading_red:1378726957138575403>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\config\\emoji.js",
+    "isAnimated": true
+  },
+  {
+    "name": "playing",
+    "id": "1371395521058701386",
+    "url": "https://cdn.discordapp.com/emojis/1371395521058701386.gif",
+    "format": "<a:playing:1371395521058701386>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\music\\resume.js",
+    "isAnimated": true
+  },
+  {
+    "name": "byte_loading",
+    "id": "1370748439918280864",
+    "url": "https://cdn.discordapp.com/emojis/1370748439918280864.gif",
+    "format": "<a:byte_loading:1370748439918280864>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\managers\\voiceStatusManager.js",
+    "isAnimated": true
+  },
+  {
+    "name": "discotoolsxyzicon83",
+    "id": "1347122696856539197",
+    "url": "https://cdn.discordapp.com/emojis/1347122696856539197.png",
+    "format": "<:discotoolsxyzicon83:1347122696856539197>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\settings\\Npt.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Spotify",
+    "id": "1370402035471745066",
+    "url": "https://cdn.discordapp.com/emojis/1370402035471745066.png",
+    "format": "<:Spotify:1370402035471745066>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\commands\\Spotify\\login.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Play",
+    "id": "1372101837733236736",
+    "url": "https://cdn.discordapp.com/emojis/1372101837733236736.png",
+    "format": "<:Play:1372101837733236736>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "pause",
+    "id": "1372091659881418823",
+    "url": "https://cdn.discordapp.com/emojis/1372091659881418823.png",
+    "format": "<:pause:1372091659881418823>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Stop",
+    "id": "1372101811934199818",
+    "url": "https://cdn.discordapp.com/emojis/1372101811934199818.png",
+    "format": "<:Stop:1372101811934199818>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "skip",
+    "id": "1372101831429455882",
+    "url": "https://cdn.discordapp.com/emojis/1372101831429455882.png",
+    "format": "<:skip:1372101831429455882>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Previous",
+    "id": "1372101825771077713",
+    "url": "https://cdn.discordapp.com/emojis/1372101825771077713.png",
+    "format": "<:Previous:1372101825771077713>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Loop_none",
+    "id": "1372101799984500831",
+    "url": "https://cdn.discordapp.com/emojis/1372101799984500831.png",
+    "format": "<:Loop_none:1372101799984500831>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Loop_track",
+    "id": "1372101820578664519",
+    "url": "https://cdn.discordapp.com/emojis/1372101820578664519.png",
+    "format": "<:Loop_track:1372101820578664519>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Shuffle",
+    "id": "1372101919279022151",
+    "url": "https://cdn.discordapp.com/emojis/1372101919279022151.png",
+    "format": "<:Shuffle:1372101919279022151>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "queue",
+    "id": "1372101913662984243",
+    "url": "https://cdn.discordapp.com/emojis/1372101913662984243.png",
+    "format": "<:queue:1372101913662984243>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Vol",
+    "id": "1372101789033173073",
+    "url": "https://cdn.discordapp.com/emojis/1372101789033173073.png",
+    "format": "<:Vol:1372101789033173073>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discotoolsxyzicon77",
+    "id": "1347122721724825641",
+    "url": "https://cdn.discordapp.com/emojis/1347122721724825641.png",
+    "format": "<:discotoolsxyzicon77:1347122721724825641>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\config\\emoji.js",
+    "isAnimated": false
+  },
+  {
+    "name": "discotoolsxyzicon78",
+    "id": "1347122717803024394",
+    "url": "https://cdn.discordapp.com/emojis/1347122717803024394.png",
+    "format": "<:discotoolsxyzicon78:1347122717803024394>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\config\\emoji.js",
+    "isAnimated": false
+  },
+  {
+    "name": "byte_muted",
+    "id": "1372109843627774034",
+    "url": "https://cdn.discordapp.com/emojis/1372109843627774034.gif",
+    "format": "<a:byte_muted:1372109843627774034>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\events\\discord\\voiceStateUpdate.js",
+    "isAnimated": true
+  },
+  {
+    "name": "byte_mic",
+    "id": "1372109775638102096",
+    "url": "https://cdn.discordapp.com/emojis/1372109775638102096.gif",
+    "format": "<a:byte_mic:1372109775638102096>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\events\\discord\\voiceStateUpdate.js",
+    "isAnimated": true
+  },
+  {
+    "name": "a_anime",
+    "id": "1371398962669555722",
+    "url": "https://cdn.discordapp.com/emojis/1371398962669555722.gif",
+    "format": "<a:a_anime:1371398962669555722>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\managers\\voiceStatusManager.js",
+    "isAnimated": true
+  },
+  {
+    "name": "Playing",
+    "id": "1378707448113659995",
+    "url": "https://cdn.discordapp.com/emojis/1378707448113659995.gif",
+    "format": "<a:Playing:1378707448113659995>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\managers\\voiceStatusManager.js",
+    "isAnimated": true
+  },
+  {
+    "name": "EastAnime115",
+    "id": "1371399856727396424",
+    "url": "https://cdn.discordapp.com/emojis/1371399856727396424.gif",
+    "format": "<a:EastAnime115:1371399856727396424>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\managers\\voiceStatusManager.js",
+    "isAnimated": true
+  },
+  {
+    "name": "EastAnime116",
+    "id": "1371493823489904640",
+    "url": "https://cdn.discordapp.com/emojis/1371493823489904640.gif",
+    "format": "<a:EastAnime116:1371493823489904640>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\managers\\voiceStatusManager.js",
+    "isAnimated": true
+  },
+  {
+    "name": "Playing_1378707448113659995",
+    "id": "1378707464479969370",
+    "url": "https://cdn.discordapp.com/emojis/1378707464479969370.png",
+    "format": "<:Playing_1378707448113659995:1378707464479969370>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\managers\\voiceStatusManager.js",
+    "isAnimated": false
+  },
+  {
+    "name": "byte_info",
+    "id": "1372554308150890496",
+    "url": "https://cdn.discordapp.com/emojis/1372554308150890496.png",
+    "format": "<:byte_info:1372554308150890496>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\MessageProcessor.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Loop_queue",
+    "id": "1372101807345504266",
+    "url": "https://cdn.discordapp.com/emojis/1372101807345504266.png",
+    "format": "<:Loop_queue:1372101807345504266>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Like",
+    "id": "1372101783320793100",
+    "url": "https://cdn.discordapp.com/emojis/1372101783320793100.png",
+    "format": "<:Like:1372101783320793100>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Down",
+    "id": "1372101795224223764",
+    "url": "https://cdn.discordapp.com/emojis/1372101795224223764.png",
+    "format": "<:Down:1372101795224223764>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Avon-bytecord\\src\\structures\\PlayerButtons.js",
+    "isAnimated": false
+  },
+  {
+    "name": "protection",
+    "id": "1324707112156397689",
+    "url": "https://cdn.discordapp.com/emojis/1324707112156397689.gif",
+    "format": "<a:protection:1324707112156397689>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\automod\\automod.js",
+    "isAnimated": true
+  },
+  {
+    "name": "cyan_dot",
+    "id": "1340585319480688672",
+    "url": "https://cdn.discordapp.com/emojis/1340585319480688672.gif",
+    "format": "<a:cyan_dot:1340585319480688672>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\Satxler.js",
+    "isAnimated": true
+  },
+  {
+    "name": "ah_n_disabled",
+    "id": "1340569688303861810",
+    "url": "https://cdn.discordapp.com/emojis/1340569688303861810.png",
+    "format": "<:ah_n_disabled:1340569688303861810>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\automod\\automod.js",
+    "isAnimated": false
+  },
+  {
+    "name": "enabled",
+    "id": "1340569545240481906",
+    "url": "https://cdn.discordapp.com/emojis/1340569545240481906.png",
+    "format": "<:enabled:1340569545240481906>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\automod\\automod.js",
+    "isAnimated": false
+  },
+  {
+    "name": "disabled",
+    "id": "1340569667323822190",
+    "url": "https://cdn.discordapp.com/emojis/1340569667323822190.png",
+    "format": "<:disabled:1340569667323822190>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\automod\\automod.js",
+    "isAnimated": false
+  },
+  {
+    "name": "not_enabled",
+    "id": "1340569580824690770",
+    "url": "https://cdn.discordapp.com/emojis/1340569580824690770.png",
+    "format": "<:not_enabled:1340569580824690770>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\automod\\automod.js",
+    "isAnimated": false
+  },
+  {
+    "name": "cross",
+    "id": "1340580414343090256",
+    "url": "https://cdn.discordapp.com/emojis/1340580414343090256.png",
+    "format": "<:cross:1340580414343090256>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\Satxler.js",
+    "isAnimated": false
+  },
+  {
+    "name": "tick",
+    "id": "1340580390166855751",
+    "url": "https://cdn.discordapp.com/emojis/1340580390166855751.png",
+    "format": "<:tick:1340580390166855751>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\Satxler.js",
+    "isAnimated": false
+  },
+  {
+    "name": "warning",
+    "id": "1324709317416325182",
+    "url": "https://cdn.discordapp.com/emojis/1324709317416325182.png",
+    "format": "<:warning:1324709317416325182>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\antinuke\\Os.js",
+    "isAnimated": false
+  },
+  {
+    "name": "sandclock",
+    "id": "1324734573954990193",
+    "url": "https://cdn.discordapp.com/emojis/1324734573954990193.gif",
+    "format": "<a:sandclock:1324734573954990193>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\moderation\\Channel create.js",
+    "isAnimated": true
+  },
+  {
+    "name": "antinuke",
+    "id": "1290920329799008348",
+    "url": "https://cdn.discordapp.com/emojis/1290920329799008348.png",
+    "format": "<:antinuke:1290920329799008348>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\antinuke\\whitelist.js",
+    "isAnimated": false
+  },
+  {
+    "name": "flsarrowl",
+    "id": "1324583748146171915",
+    "url": "https://cdn.discordapp.com/emojis/1324583748146171915.png",
+    "format": "<:flsarrowl:1324583748146171915>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "flhome",
+    "id": "1323871962086244383",
+    "url": "https://cdn.discordapp.com/emojis/1323871962086244383.png",
+    "format": "<:flhome:1323871962086244383>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\customrole\\setup.js",
+    "isAnimated": false
+  },
+  {
+    "name": "flsarrowr",
+    "id": "1324584352406835201",
+    "url": "https://cdn.discordapp.com/emojis/1324584352406835201.png",
+    "format": "<:flsarrowr:1324584352406835201>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "flarrowl",
+    "id": "1324583893315227739",
+    "url": "https://cdn.discordapp.com/emojis/1324583893315227739.png",
+    "format": "<:flarrowl:1324583893315227739>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\customrole\\setup.js",
+    "isAnimated": false
+  },
+  {
+    "name": "flarrowr",
+    "id": "1324584389551587329",
+    "url": "https://cdn.discordapp.com/emojis/1324584389551587329.png",
+    "format": "<:flarrowr:1324584389551587329>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\customrole\\setup.js",
+    "isAnimated": false
+  },
+  {
+    "name": "antinuke",
+    "id": "1340583476562497576",
+    "url": "https://cdn.discordapp.com/emojis/1340583476562497576.png",
+    "format": "<:antinuke:1340583476562497576>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "mod",
+    "id": "1340583491863056444",
+    "url": "https://cdn.discordapp.com/emojis/1340583491863056444.png",
+    "format": "<:mod:1340583491863056444>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "logger",
+    "id": "1340583482522341397",
+    "url": "https://cdn.discordapp.com/emojis/1340583482522341397.png",
+    "format": "<:logger:1340583482522341397>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "utility",
+    "id": "1340584088351936512",
+    "url": "https://cdn.discordapp.com/emojis/1340584088351936512.png",
+    "format": "<:utility:1340584088351936512>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "welcomer",
+    "id": "1340583466378592336",
+    "url": "https://cdn.discordapp.com/emojis/1340583466378592336.png",
+    "format": "<:welcomer:1340583466378592336>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "fun",
+    "id": "1340583488025526346",
+    "url": "https://cdn.discordapp.com/emojis/1340583488025526346.png",
+    "format": "<:fun:1340583488025526346>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "voice",
+    "id": "1340583468853231757",
+    "url": "https://cdn.discordapp.com/emojis/1340583468853231757.png",
+    "format": "<:voice:1340583468853231757>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "customrole",
+    "id": "1340583458820587601",
+    "url": "https://cdn.discordapp.com/emojis/1340583458820587601.png",
+    "format": "<:customrole:1340583458820587601>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "automod",
+    "id": "1340583485592834108",
+    "url": "https://cdn.discordapp.com/emojis/1340583485592834108.png",
+    "format": "<:automod:1340583485592834108>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\util.js",
+    "isAnimated": false
+  },
+  {
+    "name": "autoresponder",
+    "id": "1340583471034273874",
+    "url": "https://cdn.discordapp.com/emojis/1340583471034273874.png",
+    "format": "<:autoresponder:1340583471034273874>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "gws",
+    "id": "1340583474104369242",
+    "url": "https://cdn.discordapp.com/emojis/1340583474104369242.png",
+    "format": "<:gws:1340583474104369242>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "emoji_1731640017776",
+    "id": "1340578659672653855",
+    "url": "https://cdn.discordapp.com/emojis/1340578659672653855.gif",
+    "format": "<a:emoji_1731640017776:1340578659672653855>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\serverinfo.js",
+    "isAnimated": true
+  },
+  {
+    "name": "stolen_emoji",
+    "id": "1245705472351146005",
+    "url": "https://cdn.discordapp.com/emojis/1245705472351146005.png",
+    "format": "<:stolen_emoji:1245705472351146005>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\Satxler.js",
+    "isAnimated": false
+  },
+  {
+    "name": "booster",
+    "id": "1340579345194025023",
+    "url": "https://cdn.discordapp.com/emojis/1340579345194025023.gif",
+    "format": "<a:booster:1340579345194025023>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\serverinfo.js",
+    "isAnimated": true
+  },
+  {
+    "name": "hashtag",
+    "id": "1340578245594189825",
+    "url": "https://cdn.discordapp.com/emojis/1340578245594189825.png",
+    "format": "<:hashtag:1340578245594189825>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\serverinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "voice",
+    "id": "1340578312031965218",
+    "url": "https://cdn.discordapp.com/emojis/1340578312031965218.png",
+    "format": "<:voice:1340578312031965218>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\serverinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "wumpus_supported",
+    "id": "1324747219420712992",
+    "url": "https://cdn.discordapp.com/emojis/1324747219420712992.gif",
+    "format": "<a:wumpus_supported:1324747219420712992>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": true
+  },
+  {
+    "name": "discordEmployee",
+    "id": "1324746288834678836",
+    "url": "https://cdn.discordapp.com/emojis/1324746288834678836.png",
+    "format": "<:discordEmployee:1324746288834678836>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "DiscordPartner",
+    "id": "1324746378374807562",
+    "url": "https://cdn.discordapp.com/emojis/1324746378374807562.png",
+    "format": "<:DiscordPartner:1324746378374807562>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "BUG_HUNTER_LEVEL_1",
+    "id": "1324746540002050099",
+    "url": "https://cdn.discordapp.com/emojis/1324746540002050099.png",
+    "format": "<:BUG_HUNTER_LEVEL_1:1324746540002050099>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "Bug_Hunter_level2",
+    "id": "1324746567785386158",
+    "url": "https://cdn.discordapp.com/emojis/1324746567785386158.png",
+    "format": "<:Bug_Hunter_level2:1324746567785386158>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "hypesquad_events",
+    "id": "1324746808500420700",
+    "url": "https://cdn.discordapp.com/emojis/1324746808500420700.png",
+    "format": "<:hypesquad_events:1324746808500420700>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "house_bravery",
+    "id": "1324746928092745810",
+    "url": "https://cdn.discordapp.com/emojis/1324746928092745810.png",
+    "format": "<:house_bravery:1324746928092745810>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "house_brilliance",
+    "id": "1324747015816478854",
+    "url": "https://cdn.discordapp.com/emojis/1324747015816478854.png",
+    "format": "<:house_brilliance:1324747015816478854>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "HOUSE_BALANCE",
+    "id": "1324747115611684956",
+    "url": "https://cdn.discordapp.com/emojis/1324747115611684956.png",
+    "format": "<:HOUSE_BALANCE:1324747115611684956>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "TeamUser",
+    "id": "1324747331647574193",
+    "url": "https://cdn.discordapp.com/emojis/1324747331647574193.png",
+    "format": "<:TeamUser:1324747331647574193>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "system",
+    "id": "1324747417110974555",
+    "url": "https://cdn.discordapp.com/emojis/1324747417110974555.png",
+    "format": "<:system:1324747417110974555>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "VERIFIED_BOT",
+    "id": "1324747574653092001",
+    "url": "https://cdn.discordapp.com/emojis/1324747574653092001.png",
+    "format": "<:VERIFIED_BOT:1324747574653092001>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "VerifiedDeveloper",
+    "id": "1324747751136952402",
+    "url": "https://cdn.discordapp.com/emojis/1324747751136952402.png",
+    "format": "<:VerifiedDeveloper:1324747751136952402>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\Satxler.js",
+    "isAnimated": false
+  },
+  {
+    "name": "activeDev",
+    "id": "1324747830996373566",
+    "url": "https://cdn.discordapp.com/emojis/1324747830996373566.png",
+    "format": "<:activeDev:1324747830996373566>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\information\\userinfo.js",
+    "isAnimated": false
+  },
+  {
+    "name": "stolen_emoji",
+    "id": "1245702815737843772",
+    "url": "https://cdn.discordapp.com/emojis/1245702815737843772.png",
+    "format": "<:stolen_emoji:1245702815737843772>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\commands\\welcomer\\autorole.js",
+    "isAnimated": false
+  },
+  {
+    "name": "heart3",
+    "id": "1324699417135022132",
+    "url": "https://cdn.discordapp.com/emojis/1324699417135022132.png",
+    "format": "<:heart3:1324699417135022132>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\Satxler.js",
+    "isAnimated": false
+  },
+  {
+    "name": "qt",
+    "id": "1324698982823362591",
+    "url": "https://cdn.discordapp.com/emojis/1324698982823362591.png",
+    "format": "<:qt:1324698982823362591>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\Levix-Latest-Src\\structures\\Satxler.js",
+    "isAnimated": false
+  },
+  {
+    "name": "loading_pink2",
+    "id": "1343939278056587308",
+    "url": "https://cdn.discordapp.com/emojis/1343939278056587308.gif",
+    "format": "<a:loading_pink2:1343939278056587308>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Filters\\vaporwave.js",
+    "isAnimated": true
+  },
+  {
+    "name": "1338107648524030063",
+    "id": "1342912734634967195",
+    "url": "https://cdn.discordapp.com/emojis/1342912734634967195.png",
+    "format": "<:1338107648524030063:1342912734634967195>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\functions.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1338107634812977253",
+    "id": "1342912739101904926",
+    "url": "https://cdn.discordapp.com/emojis/1342912739101904926.png",
+    "format": "<:1338107634812977253:1342912739101904926>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\functions.js",
+    "isAnimated": false
+  },
+  {
+    "name": "mishidot",
+    "id": "1342882756840915055",
+    "url": "https://cdn.discordapp.com/emojis/1342882756840915055.gif",
+    "format": "<a:mishidot:1342882756840915055>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": true
+  },
+  {
+    "name": "1340698435124330507",
+    "id": "1342912687620886678",
+    "url": "https://cdn.discordapp.com/emojis/1342912687620886678.png",
+    "format": "<:1340698435124330507:1342912687620886678>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1338107031617536081",
+    "id": "1342912751944863776",
+    "url": "https://cdn.discordapp.com/emojis/1342912751944863776.png",
+    "format": "<:1338107031617536081:1342912751944863776>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1338107616672485427",
+    "id": "1342912742549356615",
+    "url": "https://cdn.discordapp.com/emojis/1342912742549356615.png",
+    "format": "<:1338107616672485427:1342912742549356615>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340692868167372882",
+    "id": "1342912715915526275",
+    "url": "https://cdn.discordapp.com/emojis/1342912715915526275.png",
+    "format": "<:1340692868167372882:1342912715915526275>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340687660573790249",
+    "id": "1342912673037291611",
+    "url": "https://cdn.discordapp.com/emojis/1342912673037291611.png",
+    "format": "<:1340687660573790249:1342912673037291611>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340698369743392859",
+    "id": "1342912667374981222",
+    "url": "https://cdn.discordapp.com/emojis/1342912667374981222.png",
+    "format": "<:1340698369743392859:1342912667374981222>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\info.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340696244573700278",
+    "id": "1342912644851564575",
+    "url": "https://cdn.discordapp.com/emojis/1342912644851564575.png",
+    "format": "<:1340696244573700278:1342912644851564575>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340696112176168960",
+    "id": "1342912664199761940",
+    "url": "https://cdn.discordapp.com/emojis/1342912664199761940.png",
+    "format": "<:1340696112176168960:1342912664199761940>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\help.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340687619129868329",
+    "id": "1342912704045912146",
+    "url": "https://cdn.discordapp.com/emojis/1342912704045912146.png",
+    "format": "<:1340687619129868329:1342912704045912146>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\info.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340698405684646120",
+    "id": "1342912690988912772",
+    "url": "https://cdn.discordapp.com/emojis/1342912690988912772.png",
+    "format": "<:1340698405684646120:1342912690988912772>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\uptime.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340698384251621427",
+    "id": "1342912678636687370",
+    "url": "https://cdn.discordapp.com/emojis/1342912678636687370.png",
+    "format": "<:1340698384251621427:1342912678636687370>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\info.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340696193696792666",
+    "id": "1342912607522390078",
+    "url": "https://cdn.discordapp.com/emojis/1342912607522390078.png",
+    "format": "<:1340696193696792666:1342912607522390078>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Information\\info.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340692810638037084",
+    "id": "1342912700262514688",
+    "url": "https://cdn.discordapp.com/emojis/1342912700262514688.png",
+    "format": "<:1340692810638037084:1342912700262514688>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340696153599115406",
+    "id": "1342912658050908201",
+    "url": "https://cdn.discordapp.com/emojis/1342912658050908201.png",
+    "format": "<:1340696153599115406:1342912658050908201>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340687912190083082",
+    "id": "1342912612593303715",
+    "url": "https://cdn.discordapp.com/emojis/1342912612593303715.png",
+    "format": "<:1340687912190083082:1342912612593303715>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\functions.js",
+    "isAnimated": false
+  },
+  {
+    "name": "pristo_delete",
+    "id": "1119489535848493167",
+    "url": "https://cdn.discordapp.com/emojis/1119489535848493167.gif",
+    "format": "<a:pristo_delete:1119489535848493167>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\commands\\Playlist\\delete.js",
+    "isAnimated": true
+  },
+  {
+    "name": "fs_PinkFlowers",
+    "id": "1342501109054312498",
+    "url": "https://cdn.discordapp.com/emojis/1342501109054312498.gif",
+    "format": "<a:fs_PinkFlowers:1342501109054312498>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\events\\Client\\messageCreate.js",
+    "isAnimated": true
+  },
+  {
+    "name": "1340696258402058240",
+    "id": "1342912675511795733",
+    "url": "https://cdn.discordapp.com/emojis/1342912675511795733.png",
+    "format": "<:1340696258402058240:1342912675511795733>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340698422503674006",
+    "id": "1342912682659151923",
+    "url": "https://cdn.discordapp.com/emojis/1342912682659151923.png",
+    "format": "<:1340698422503674006:1342912682659151923>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\functions.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340692842183659651",
+    "id": "1342912707229122651",
+    "url": "https://cdn.discordapp.com/emojis/1342912707229122651.png",
+    "format": "<:1340692842183659651:1342912707229122651>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340687726261047439",
+    "id": "1343091704772821093",
+    "url": "https://cdn.discordapp.com/emojis/1343091704772821093.png",
+    "format": "<:1340687726261047439:1343091704772821093>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340696232682848398",
+    "id": "1342912633669685368",
+    "url": "https://cdn.discordapp.com/emojis/1342912633669685368.png",
+    "format": "<:1340696232682848398:1342912633669685368>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340687759928463441",
+    "id": "1342912642028671159",
+    "url": "https://cdn.discordapp.com/emojis/1342912642028671159.png",
+    "format": "<:1340687759928463441:1342912642028671159>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340687889515806720",
+    "id": "1342912610244362270",
+    "url": "https://cdn.discordapp.com/emojis/1342912610244362270.png",
+    "format": "<:1340687889515806720:1342912610244362270>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\functions.js",
+    "isAnimated": false
+  },
+  {
+    "name": "1340692828430536734",
+    "id": "1342912661364543551",
+    "url": "https://cdn.discordapp.com/emojis/1342912661364543551.png",
+    "format": "<:1340692828430536734:1342912661364543551>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  },
+  {
+    "name": "1340701885799206951",
+    "id": "1343091716030206052",
+    "url": "https://cdn.discordapp.com/emojis/1343091716030206052.png",
+    "format": "<:1340701885799206951:1343091716030206052>",
+    "file": "C:\\Users\\swaga\\Desktop\\bot\\UnZipped\\lunaveil\\src\\utils\\emoji.json",
+    "isAnimated": false
+  }
+]
