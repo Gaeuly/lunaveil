@@ -1,12 +1,12 @@
 require("dotenv").config();
 
 module.exports = {
-  token: process.env.TOKEN || 'MTM0MzU4MjAxNzY1MjI2MDk0NQ.GLc-RX.xOrm2e2VnAINlrRYys74_Gqu3kHulB-82AHjgY', // your discord bot token
+  token: process.env.TOKEN || '', // your discord bot token
   prefix: process.env.PREFIX || '?', // bot prefix
   ownerID: process.env.OWNERID?.split(',') || ['500293365494054932'],
   SpotifyID: process.env.SPOTIFYID || 'bf5ee2a72bae40ffadc71a47280e5ff9', // spotify client id
   SpotifySecret: process.env.SPOTIFYSECRET || '053469ffeb3844079fab734ebf3090c2', // spotify client secret
-  mongourl: process.env.MONGO_URI || 'mongodb+srv://adityapriyandi03:root234@cluster0.48hg8m5.mongodb.net/?retryWrites=true&w=majority', // MongoDb URL
+  mongourl: process.env.MONGO_URI || '', // MongoDb URL
   embedColor: process.env.COlOR || '#E6E6FA', // embed colour
   logs: process.env.LOGS || '1398064461885079592', // Discord channel id 
   links: {
